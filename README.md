@@ -59,16 +59,6 @@ Eine umfassende Community-Plattform für Events und Bürgerbeteiligung, entwicke
 
 **Entwurfsmuster:** Observer Pattern (MQTT), Facade Pattern (API Gateway), Factory Method Pattern
 
-## 📊 GitHub Statistiken
-
-![Ahmads GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Atia&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Atia&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ahmad-Atia&theme=radical)
-
 ## 🎯 Entwicklungsphilosophie
 
 Ich folge strukturierten Entwicklungsmethoden:
